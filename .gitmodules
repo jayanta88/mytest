@@ -1,0 +1,3 @@
+[submodule "Git-Release"]
+	path = Git-Release
+	url = https://github.com/c9s/Git-Release.git
